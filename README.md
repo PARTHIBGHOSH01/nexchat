@@ -1,4 +1,4 @@
-# 💬 ChatApp — Real-time MERN Chat Application
+# 💬 Nexchat — Real-time MERN Chat Application
 
 A full-stack real-time chat app built with MongoDB, Express, React, Node.js and Socket.io.
 
